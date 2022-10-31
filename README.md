@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 -->
-- Desenvolvedora Front-End
-- 👩‍🎓 Graduada em Design
+- 💻 Desenvolvedora Front-End
+- 🎓 Graduada em Design
 - 📚 Estudante de Tecnologia | Análise e Desenvolvimento de Sistemas - Unicsul
 - 👩‍🦰 Pronomes: ela/dela
 
